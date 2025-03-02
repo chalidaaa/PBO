@@ -1,4 +1,4 @@
-Hi there! Chalida is here <3
+Hi, there! Chalida is here <3
 =============================
 Welcome to my PBO Project
 Disini, saya akan menaruh project yang akan up-to-date tiap minggunya
